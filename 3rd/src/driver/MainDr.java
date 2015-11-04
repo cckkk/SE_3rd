@@ -10,7 +10,6 @@ public class MainDr {
 		System.out.println("Hello Git");
 		System.out.println("CurentTime : " + getTime());
 		System.out.println("Factorial 4(4!) = " + calculateFactorial(4));
-		
 		drawDiamond();
 	}
 	public static String getTime() {
